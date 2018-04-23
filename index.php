@@ -38,6 +38,96 @@
   text-align: center;
 }
 </style>
+ <body>
+  
+  
+  
+  
+  
+  <table align="center" bgcolor="#F0F0F0" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td align="center">
+			<table align="center" border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td align="center" width="600">
+						<table align="center" bgcolor="#4a4a4a" border="0" cellpadding="0" cellspacing="0" data-bgcolor="Footer Bar" width="100%">
+							<tbody>
+								<tr>
+									<td height="15"> </td>
+								</tr>
+								<tr>
+									<td align="center">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+										<tbody>
+											<tr>
+												<td align="center" style="text-align:center;vertical-align:top;font-size:0;"><!--text-->
+												<div style="display:inline-block; vertical-align:top;">
+												<table align="center" border="0" cellpadding="0" cellspacing="0">
+													<tbody>
+														<tr>
+															<td align="center" width="100%">
+															<table align="center" border="0" cellpadding="0" cellspacing="0">
+																<tbody>
+																	<tr>
+																		<td align="center" data-color="Footer" data-link-style="text-decoration:none; color:#ffffff;" data-size="Footer" mc:edit="main-8-49" style="font-family:Ubuntu; font-size:24px; color:#ffffff; font-weight:normal; padding-top:3px;"><singleline label="cta text"><b>Startupwala</b></singleline></td>
+																		<td width="10"> </td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+														<tr>
+															<td height="15"> </td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+												<!--end text--><!--[if (gte mso 9)|(IE)]>
+                                                   </td>
+                                                   <td align="center" style="text-align:center;vertical-align:top;font-size:0;">
+                                                      <![endif]--><!--social-->
+
+												<div style="display:inline-block; vertical-align:top;">
+												<table align="center" border="0" cellpadding="0" cellspacing="0">
+													<tbody>
+														<tr>
+															<td align="center" width="100%"> </td>
+														</tr>
+														<tr>
+															<td height="15"> </td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+												<!--end social--></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <img src="https://www.startupwala.com/images/logo_startupwala_new.png"  width="100%"  />
   <!-- Begin Default Content REMOVE THIS -->
   <h1 align="center" style="color:#3293EA; "><font size="6"><b>Thank You!</b></font></h1>
@@ -77,6 +167,6 @@
      
      
   <!-- End Default Content REMOVE THIS -->
-  
+ </body>
   </html> 
                    
