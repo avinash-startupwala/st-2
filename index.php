@@ -44,7 +44,7 @@
   
   
   
-  <table align="center" bgcolor="#F0F0F0" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <table align="center" bgcolor="#F0F0F0" border="0" cellpadding="0" cellspacing="0" width="800">
 	<tbody>
 		<tr>
 			<td align="center">
@@ -71,7 +71,7 @@
 															<table align="center" border="0" cellpadding="0" cellspacing="0">
 																<tbody>
 																	<tr>
-																		<td align="center" data-color="Footer" data-link-style="text-decoration:none; color:#ffffff;" data-size="Footer" mc:edit="main-8-49" style="font-family:Ubuntu; font-size:28px; color:#ffffff; font-weight:normal; padding-top:3px;"><singleline label="cta text"><b>Startupwala</b></singleline></td>
+																		<td align="center" data-color="Footer" data-link-style="text-decoration:none; color:#ffffff;" data-size="Footer" mc:edit="main-8-49" style="font-family:Ubuntu; font-size:30px; color:#ffffff; font-weight:normal; padding-top:3px;"><singleline label="cta text"><b>Startupwala</b></singleline></td>
 																		<td width="10"> </td>
 																	</tr>
 																</tbody>
